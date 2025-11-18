@@ -1,5 +1,5 @@
-# Sistema de Reservas y Gestión de Espacios – Laravel 11
-Aplicación completa desarrollada con Laravel 11, que implementa CRUD para **Espacios** y **Reservas**, incluyendo relaciones, validación, componentes reutilizables y vistas modernas con TailwindCSS.
+# Sistema de Reservas y Gestión de Espacios – Laravel 
+Aplicación completa desarrollada con Laravel, que implementa CRUD para **Espacios** y **Reservas**, incluyendo relaciones, validación, componentes reutilizables y vistas modernas con TailwindCSS.
 
 ## 🚀 Características
 - CRUD completo para Espacios
@@ -50,12 +50,5 @@ php artisan serve
 - **database/migrations/** → estructura de tablas
 - **resources/views/** → vistas modernas con TailwindCSS
 
-## 📝 Evaluación cubierta (100%)
-- Migraciones (20%)
-- Modelos + relaciones (20%)
-- Controladores resource (25%)
-- Vistas con partials + select dinámico + paginación (25%)
-- Rutas y navegación (10%)
-
 ## 🧑‍💻 Autor
-Proyecto académico desarrollado para fines formativos.
+Cristian Dario Rojas Ubalteros
